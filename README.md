@@ -36,7 +36,7 @@ Hi there! 👋 I'm Maleesha Gimshan, a self-taught developer with a passion for 
 
 ## Contact Me
 
-📧 Email: maleeshagimshan74@gmail.com
+📧 Email: maleesha.gimshan.98@outlook.com
 🌐 LinkedIn: [linkedin.com/in/maleesha-gimshan](https://www.linkedin.com/in/maleesha-gimshan)
 
 Feel free to reach out to me via email or connect with me on LinkedIn. I'm open to exciting opportunities and collaborations!

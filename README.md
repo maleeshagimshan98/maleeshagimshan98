@@ -6,7 +6,7 @@
 I’m a passionate software engineer who loves building **robust, scalable, and well-architected systems**.  
 I have **2+ years of industry experience** and **3+ years of self-taught freelance experience**, delivering web and software solutions for diverse clients and real-world problems.  
 
-Currently, I lead full-stack development at **Solution365 (PVT) LTD**, where I design and implement modern software ecosystems using **Node.js microservices**, **Laravel**, and **TypeScript**.
+Currently, I lead full-stack development at **Solution365 (PVT) LTD**, where I design and implement modern software ecosystems using **Node.js microservices** and **TypeScript**.
 
 My approach blends **deep technical expertise** and **architectural thinking** — crafting software that not only works, but *lasts*.
 
